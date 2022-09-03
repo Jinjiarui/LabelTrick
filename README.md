@@ -1,6 +1,6 @@
 # Label Tricks of Node Classifcation on Graphs
 <p align="center">
-  <img src="image/labeltrick.png" width="300">
+  <img src="image/labeltrick.png" width="600">
   <br />
   <br />
 </p>
