@@ -4,7 +4,8 @@
   <br />
   <br />
 </p>
-This is a `pytorch` implementation of GraphHINGE model. This is the experiment code in the following work:
+
+This is a `pytorch` implementation of Label Trick. This is the experiment code in the following work:
 
 > Why Propagate Alone? Parallel Use of Labels and Features on Graphs</br>
 Yangkun Wang, Jiarui Jin, Weinan Zhang, Yongyi Yang, Jiuhai Chen, Quan Gan, Yong Yu, Zheng Zhang, Zengfeng Huang, David Wipf
