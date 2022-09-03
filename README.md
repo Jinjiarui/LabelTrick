@@ -1,10 +1,9 @@
 # Label Tricks of Node Classifcation on Graphs
 <p align="center">
-  <img src="image/labeltrick.png" width="600">
+  <img src="image/labeltrick.png" width="640">
   <br />
   <br />
 </p>
-
 This is a `pytorch` implementation of GraphHINGE model. This is the experiment code in the following work:
 
 > Why Propagate Alone? Parallel Use of Labels and Features on Graphs</br>
