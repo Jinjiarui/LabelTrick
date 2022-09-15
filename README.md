@@ -7,8 +7,8 @@
 
 This is a `pytorch` implementation of Label Trick. This is the experiment code in the following work:
 
-> Why Propagate Alone? Parallel Use of Labels and Features on Graphs</br>
-Yangkun Wang, Jiarui Jin, Weinan Zhang, Yongyi Yang, Jiuhai Chen, Quan Gan, Yong Yu, Zheng Zhang, Zengfeng Huang, David Wipf
+> Why Propagate Alone? Parallel Use of Labels and Features on Graphs </br>
+Yangkun Wang, Jiarui Jin, Weinan Zhang, Yongyi Yang, Jiuhai Chen, Quan Gan, Yong Yu, Zheng Zhang, Zengfeng Huang, David Wipf. </br>
 [ICLR 2022](https://openreview.net/forum?id=VTNjxbFRKly)
 
 ### Prerequisites
